@@ -1,0 +1,66 @@
+[
+    {
+        "category": "SPORT",
+        "title": "Ligue des Champions - Finale",
+        "description": "La Finale de la Ligue des Champions est l'événement ultime du football européen, où les deux meilleures équipes du continent s'affrontent pour décrocher le prestigieux titre de champions d'Europe. Le stade de Wembley à Londres sera le théâtre de cette confrontation épique, où chaque passe, chaque tir, chaque action peut faire la différence. Assistez à une soirée inoubliable, pleine de passion et de spectacle, avec les plus grands joueurs du monde en action. Que vous soyez dans les tribunes VIP pour une expérience exclusive ou dans les places standards, vous vivrez l'intensité de ce match historique. Ne manquez pas l'occasion de faire partie de cet événement mondial.",
+        "startDateTime": "2025-06-30T18:00:00",
+        "location": "Stade de Wembley, Londres",
+        "organizer": "UEFA",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "VIP", "price": 500000.0, "quantityAvailable": 100, "purchaseLimitPerUser": 2, "saleEnabled": true },
+            { "name": "Standard", "price": 150000.0, "quantityAvailable": 2000, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "SPORT",
+        "title": "Tour de France 2025 - Étape Finale",
+        "description": "L'Étape Finale du Tour de France 2025 sera l'ultime moment de cette incroyable aventure cycliste. Les meilleurs coureurs du monde entier s'affronteront sur l'une des avenues les plus célèbres au monde : les Champs-Élysées à Paris. Ce spectacle de haut niveau verra le couronnement du champion, un moment plein de suspense et de joie pour les spectateurs et les participants. Assistez à cette étape emblématique qui attire des millions de fans chaque année, avec une ambiance festive et une vue imprenable sur l'un des plus grands événements sportifs de la planète. Soyez témoin de l'exploit sportif et de la célébration du cyclisme à son apogée.",
+        "startDateTime": "2025-07-25T09:00:00",
+        "location": "Champs-Élysées, Paris",
+        "organizer": "ASO",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass VIP", "price": 250000.0, "quantityAvailable": 500, "purchaseLimitPerUser": 5, "saleEnabled": true },
+            { "name": "Pass Général", "price": 100000.0, "quantityAvailable": 5000, "purchaseLimitPerUser": 15, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "SPORT",
+        "title": "Marathon de New York",
+        "description": "Le Marathon de New York est l'un des plus grands événements sportifs du monde, attirant des dizaines de milliers de coureurs venus des quatre coins du globe. C'est une véritable célébration du sport et de la diversité humaine, où des athlètes amateurs et professionnels parcourent les 42,195 kilomètres à travers les cinq arrondissements de la ville. Chaque année, des millions de spectateurs viennent soutenir les coureurs tout au long du parcours, créant une atmosphère électrisante. Le Marathon de New York est plus qu'une simple course, c'est un événement mondial à ne pas manquer pour les passionnés de sport et les curieux.",
+        "startDateTime": "2025-11-01T07:00:00",
+        "location": "Central Park, New York",
+        "organizer": "New York Road Runners",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Entrée Générale", "price": 80000.0, "quantityAvailable": 10000, "purchaseLimitPerUser": 5, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "SPORT",
+        "title": "Finale de la Coupe du Monde de Rugby",
+        "description": "La Finale de la Coupe du Monde de Rugby est l'apogée du rugby mondial. Les meilleures équipes de la planète s'affrontent dans une bataille épique pour décrocher le titre tant convoité de champions du monde. Cet événement est synonyme de passion, de courage et de sport de haut niveau, où chaque plaquage, chaque essai et chaque tentative de transformation peut changer le cours de la rencontre. Assistez à cet affrontement de titans au Stade de France à Saint-Denis, où l'intensité du rugby à son meilleur sera à son comble.",
+        "startDateTime": "2025-10-12T15:00:00",
+        "location": "Stade de France, Saint-Denis",
+        "organizer": "Rugby World Cup",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "VIP", "price": 350000.0, "quantityAvailable": 300, "purchaseLimitPerUser": 2, "saleEnabled": true },
+            { "name": "Général", "price": 120000.0, "quantityAvailable": 10000, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "SPORT",
+        "title": "Open de Tennis de Roland Garros",
+        "description": "L'Open de Tennis de Roland Garros est l'un des tournois les plus prestigieux au monde, réunissant les meilleurs joueurs de tennis du circuit sur terre battue. Ce tournoi emblématique à Paris attire chaque année les plus grands champions, offrant des matchs palpitants et une atmosphère inoubliable. En tant que deuxième Grand Chelem de la saison, Roland Garros est un événement incontournable pour les amateurs de tennis. Que vous soyez VIP pour une expérience haut de gamme ou spectateur général, vous vivrez l'excitation et la passion du tennis dans un cadre légendaire. Ne manquez pas l'occasion de faire partie de ce tournoi mythique.",
+        "startDateTime": "2025-05-25T09:00:00",
+        "location": "Roland Garros, Paris",
+        "organizer": "FFT",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass VIP", "price": 400000.0, "quantityAvailable": 200, "purchaseLimitPerUser": 5, "saleEnabled": true },
+            { "name": "Pass Journée", "price": 100000.0, "quantityAvailable": 5000, "purchaseLimitPerUser": 15, "saleEnabled": true }
+        ]
+    }
+]

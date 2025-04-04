@@ -1,0 +1,68 @@
+[
+    {
+        "category": "CONCERT",
+        "title": "Rap Game Showdown",
+        "description": "Préparez-vous pour une soirée explosive où les plus grandes stars du rap français et international se retrouveront sur une même scène pour un affrontement musical épique. Dans une ambiance survoltée, chaque artiste enchaînera ses plus grands hits et dévoilera des performances inédites, dans un cadre spectaculaire digne des plus grands shows américains. Que vous soyez fan de trap, de boom bap ou de drill, cet événement est taillé pour tous les amoureux du rap pur et dur. Éclairages futuristes, beats puissants et invités surprises garantis !",
+        "startDateTime": "2025-08-20T21:00:00",
+        "location": "Accor Arena, Paris",
+        "organizer": "Rap Nation",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "VIP", "price": 250000.0, "quantityAvailable": 100, "purchaseLimitPerUser": 5, "saleEnabled": true },
+            { "name": "Golden Circle", "price": 180000.0, "quantityAvailable": 300, "purchaseLimitPerUser": 10, "saleEnabled": true },
+            { "name": "Regular", "price": 90000.0, "quantityAvailable": 800, "purchaseLimitPerUser": 20, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "CONCERT",
+        "title": "Afrobeat Explosion",
+        "description": "Vibrez au rythme de l’Afrique lors d’un festival haut en couleur qui célèbre la richesse musicale de l’Afrobeat moderne. Des percussions entraînantes, des mélodies chaleureuses et des artistes charismatiques venus des quatre coins du continent et de la diaspora transformeront le Zénith en véritable temple de la danse. Attendez-vous à des shows énergiques, des chorégraphies spectaculaires, et une ambiance festive qui vous fera voyager de Lagos à Abidjan sans quitter Toulouse. Une expérience sensorielle et culturelle unique à ne pas manquer !",
+        "startDateTime": "2025-09-15T20:00:00",
+        "location": "Zénith, Toulouse",
+        "organizer": "Afro Vibes",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "VIP", "price": 200000.0, "quantityAvailable": 150, "purchaseLimitPerUser": 5, "saleEnabled": true },
+            { "name": "Regular", "price": 80000.0, "quantityAvailable": 1000, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "CONCERT",
+        "title": "Rock Legends Live",
+        "description": "Une célébration monumentale du rock à travers les générations ! Retrouvez sur scène les groupes les plus emblématiques qui ont marqué l’histoire de la musique avec leurs guitares enflammées, leurs voix inoubliables et leur présence scénique hors norme. Ce concert unique rassemblera des légendes vivantes pour une soirée pleine d’énergie brute, de solos mythiques et de souvenirs inoubliables. Venez chanter en chœur les classiques du rock, dans un stade transformé en temple de la musique. Une immersion totale dans la culture rock, entre nostalgie et puissance électrique.",
+        "startDateTime": "2025-07-10T19:30:00",
+        "location": "Stade Pierre Mauroy, Lille",
+        "organizer": "Rock Nation",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "VIP", "price": 300000.0, "quantityAvailable": 200, "purchaseLimitPerUser": 5, "saleEnabled": true },
+            { "name": "Standard", "price": 120000.0, "quantityAvailable": 5000, "purchaseLimitPerUser": 20, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "CONCERT",
+        "title": "Jazz & Blues Night",
+        "description": "Plongez dans une ambiance feutrée et élégante lors de cette soirée d’exception dédiée aux amoureux du jazz et du blues. De la douceur d’un saxophone solo aux envolées vibrantes d’une guitare blues, chaque note jouée viendra effleurer vos émotions les plus profondes. Les plus grands noms de la scène jazz internationale se réunissent pour offrir un moment suspendu, entre improvisations sublimes et standards revisités. Dans la prestigieuse Salle Pleyel, vivez une nuit d’élégance, de virtuosité musicale et de pur plaisir auditif.",
+        "startDateTime": "2025-10-15T20:00:00",
+        "location": "Salle Pleyel, Paris",
+        "organizer": "Smooth Events",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "VIP", "price": 220000.0, "quantityAvailable": 100, "purchaseLimitPerUser": 5, "saleEnabled": true },
+            { "name": "Balcon", "price": 100000.0, "quantityAvailable": 500, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "CONCERT",
+        "title": "Electro Sunrise Festival",
+        "description": "Préparez-vous à danser jusqu’au lever du jour sur les sons électrisants des DJ les plus en vogue de la scène électro mondiale. Installé sur la magnifique plage de Cannes, ce festival vous propose une expérience immersive et sensorielle hors du commun, entre jeux de lumière hypnotiques, installations visuelles grandioses et basses vibrantes qui font trembler le sable. Une programmation éclectique vous fera voyager entre house, techno, trance et EDM. Vibrez au rythme du beat, les pieds dans le sable et les étoiles au-dessus de vous. Un rendez-vous immanquable pour les clubbers et amateurs de musique électronique.",
+        "startDateTime": "2025-06-30T22:00:00",
+        "location": "Plage de Cannes",
+        "organizer": "Electro Nation",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass Nuit", "price": 180000.0, "quantityAvailable": 4000, "purchaseLimitPerUser": 5, "saleEnabled": true },
+            { "name": "Pass VIP", "price": 350000.0, "quantityAvailable": 500, "purchaseLimitPerUser": 2, "saleEnabled": true }
+        ]
+    }
+]

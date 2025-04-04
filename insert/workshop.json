@@ -1,0 +1,92 @@
+[
+    {
+        "category": "WORKSHOP",
+        "title": "Coding for Beginners",
+        "description": "Ce workshop est conçu pour les débutants en programmation. Vous apprendrez les concepts de base tels que les variables, les boucles et les fonctions dans un environnement interactif. À travers des exercices pratiques, vous vous familiariserez avec les principaux langages de programmation, notamment Python et JavaScript. Que vous souhaitiez créer des sites web, des applications ou simplement mieux comprendre l'informatique, ce workshop vous donnera les bases solides nécessaires pour démarrer votre parcours en développement. Rejoignez-nous pour plonger dans le monde passionnant du code !",
+        "startDateTime": "2025-06-25T09:00:00",
+        "location": "Tech Lab, Paris",
+        "organizer": "Dev Bootcamp",
+        "status": "PUBLISHED",
+        "tickets": [
+            {
+                "name": "Entrée Standard",
+                "price": 40000.0,
+                "quantityAvailable": 300,
+                "purchaseLimitPerUser": 3,
+                "saleEnabled": true
+            }
+        ]
+    },
+    {
+        "category": "WORKSHOP",
+        "title": "Création d'Applications Mobiles",
+        "description": "Apprenez à concevoir et à développer vos premières applications mobiles pour Android et iOS. Ce workshop pratique vous guidera à travers le processus de développement mobile, en utilisant les dernières technologies et outils comme React Native et Xcode. Vous découvrirez comment créer des interfaces utilisateur intuitives, gérer les bases de données et déployer vos applications sur les stores. À la fin du workshop, vous repartirez avec votre propre application mobile prête à être lancée. Que vous soyez un débutant ou que vous ayez déjà une expérience en développement, ce workshop vous aidera à passer au niveau supérieur.",
+        "startDateTime": "2025-07-10T13:00:00",
+        "location": "Mobile Dev Hub, Lyon",
+        "organizer": "Code Factory",
+        "status": "PUBLISHED",
+        "tickets": [
+            {
+                "name": "Entrée Standard",
+                "price": 60000.0,
+                "quantityAvailable": 200,
+                "purchaseLimitPerUser": 2,
+                "saleEnabled": true
+            }
+        ]
+    },
+    {
+        "category": "WORKSHOP",
+        "title": "Introduction à l'Intelligence Artificielle",
+        "description": "Dans ce workshop, vous découvrirez les concepts fondamentaux de l'Intelligence Artificielle (IA) et son utilisation dans différents domaines. Nous explorerons les algorithmes d'apprentissage automatique, le traitement du langage naturel et la vision par ordinateur. Vous apprendrez comment intégrer ces technologies puissantes dans vos projets, que ce soit pour automatiser des processus ou créer des applications intelligentes. Rejoignez-nous pour plonger dans le futur de la technologie et comprendre comment l'IA transforme l'industrie et notre quotidien.",
+        "startDateTime": "2025-08-05T10:00:00",
+        "location": "AI Center, Marseille",
+        "organizer": "AI Learning",
+        "status": "PUBLISHED",
+        "tickets": [
+            {
+                "name": "Pass Complet",
+                "price": 70000.0,
+                "quantityAvailable": 150,
+                "purchaseLimitPerUser": 3,
+                "saleEnabled": true
+            }
+        ]
+    },
+    {
+        "category": "WORKSHOP",
+        "title": "Web Design & UX/UI Fundamentals",
+        "description": "Le design web est essentiel pour offrir une expérience utilisateur optimale. Ce workshop vous permettra de maîtriser les bases du design web et des principes UX/UI. Vous apprendrez à concevoir des interfaces utilisateur intuitives, à comprendre les besoins des utilisateurs et à créer des sites web et des applications qui sont non seulement esthétiques mais aussi fonctionnels. Vous explorerez les outils et les tendances actuelles en matière de design, tout en travaillant sur des projets concrets pour renforcer vos compétences.",
+        "startDateTime": "2025-09-15T11:00:00",
+        "location": "Design Studio, Bordeaux",
+        "organizer": "Creative Web Design",
+        "status": "PUBLISHED",
+        "tickets": [
+            {
+                "name": "Entrée Standard",
+                "price": 50000.0,
+                "quantityAvailable": 250,
+                "purchaseLimitPerUser": 4,
+                "saleEnabled": true
+            }
+        ]
+    },
+    {
+        "category": "WORKSHOP",
+        "title": "Mastering Blockchain Development",
+        "description": "Approfondissez vos connaissances du développement Blockchain avec ce workshop avancé. Vous explorerez les concepts essentiels de la blockchain, du consensus décentralisé à la création de smart contracts. Ce workshop est destiné à ceux qui ont déjà des connaissances de base en développement et souhaitent se spécialiser dans la création de projets basés sur la blockchain. Vous apprendrez à concevoir des applications décentralisées (DApps), à utiliser des plateformes comme Ethereum, et à comprendre les enjeux de la sécurité blockchain. Rejoignez-nous pour devenir un expert du développement blockchain et ouvrir la voie à des innovations technologiques.",
+        "startDateTime": "2025-11-12T14:00:00",
+        "location": "Dev Hub, Berlin",
+        "organizer": "Blockchain Devs",
+        "status": "PUBLISHED",
+        "tickets": [
+            {
+                "name": "Entrée Standard",
+                "price": 80000.0,
+                "quantityAvailable": 200,
+                "purchaseLimitPerUser": 3,
+                "saleEnabled": true
+            }
+        ]
+    }
+]

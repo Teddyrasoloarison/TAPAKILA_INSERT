@@ -1,0 +1,62 @@
+[
+    {
+        "category": "MEETUP",
+        "title": "Rencontre des Passionnés de Voyage",
+        "description": "La Rencontre des Passionnés de Voyage est un événement convivial et informel destiné à rassembler des voyageurs du monde entier pour partager leurs expériences et leurs conseils. Que vous soyez un aventurier chevronné ou un voyageur novice, cet événement est l'occasion idéale pour échanger des anecdotes, découvrir de nouvelles destinations et obtenir des recommandations de ceux qui ont parcouru les quatre coins du globe. Les participants pourront discuter de leurs périples, échanger des astuces pratiques et peut-être même planifier leur prochain voyage ensemble. Rejoignez-nous au Café Voyageurs à Paris pour une soirée enrichissante autour du voyage.",
+        "startDateTime": "2025-07-05T18:00:00",
+        "location": "Café Voyageurs, Paris",
+        "organizer": "Voyageurs Enthousiastes",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Entrée Gratuite", "price": 0.0, "quantityAvailable": 100, "purchaseLimitPerUser": 2, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "MEETUP",
+        "title": "Soirée Cinéma Indépendant",
+        "description": "La Soirée Cinéma Indépendant est un événement incontournable pour les amoureux du cinéma hors des sentiers battus. Cette rencontre permet de découvrir des films indépendants souvent méconnus du grand public, suivis de discussions passionnantes avec les participants. C’est une occasion unique de rencontrer des cinéphiles, de débattre des œuvres projetées et de comprendre les enjeux artistiques et sociaux abordés dans ces films. Cette soirée est organisée dans un cadre intime et chaleureux au Cinéma Indie à Lyon, offrant ainsi une plateforme de partage autour du cinéma d’auteur et des films qui sortent des conventions hollywoodiennes.",
+        "startDateTime": "2025-08-10T20:00:00",
+        "location": "Cinéma Indie, Lyon",
+        "organizer": "Film Lovers",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Entrée Standard", "price": 50000.0, "quantityAvailable": 150, "purchaseLimitPerUser": 2, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "MEETUP",
+        "title": "Club de Lecture - Romans Historiques",
+        "description": "Le Club de Lecture dédié aux Romans Historiques est un rendez-vous idéal pour les passionnés de littérature et d’histoire. Au cours de cette rencontre, les participants discuteront des derniers romans historiques publiés, échangeront sur les personnages et événements décrits, et partageront leurs impressions sur la façon dont l’histoire est interprétée à travers les yeux des auteurs. C’est une occasion de plonger dans les intrigues fascinantes qui mêlent fiction et faits historiques tout en rencontrant d'autres lecteurs passionnés. Rejoignez-nous à la Librairie Littera de Paris pour un moment d’échange littéraire enrichissant.",
+        "startDateTime": "2025-09-01T17:00:00",
+        "location": "Librairie Littera, Paris",
+        "organizer": "Book Lovers Society",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Entrée Gratuite", "price": 0.0, "quantityAvailable": 50, "purchaseLimitPerUser": 1, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "MEETUP",
+        "title": "Soirée Jeux de Société",
+        "description": "La Soirée Jeux de Société est l'événement parfait pour les amateurs de jeux de société de tous horizons. Que vous soyez un joueur expérimenté ou un débutant, cette soirée offre un large choix de jeux pour tous les goûts, des classiques incontournables aux nouveautés les plus originales. C'est aussi une occasion idéale de rencontrer de nouvelles personnes partageant la même passion et de passer un moment agréable autour de jeux conviviaux. Rejoignez-nous au Coin des Jeux à Marseille pour une soirée pleine de rires, de stratégie et de découvertes ludiques.",
+        "startDateTime": "2025-10-15T19:00:00",
+        "location": "Le Coin des Jeux, Marseille",
+        "organizer": "Joueurs de Société",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Entrée Standard", "price": 20000.0, "quantityAvailable": 120, "purchaseLimitPerUser": 3, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "MEETUP",
+        "title": "Rencontre Entrepreneurs et Freelancers",
+        "description": "La Rencontre Entrepreneurs et Freelancers est un événement conçu pour favoriser les échanges entre indépendants, entrepreneurs et freelances. Ce meetup permet aux participants de discuter des défis et des opportunités auxquels ils font face au quotidien, d'échanger des conseils pratiques et d'établir des collaborations professionnelles. C'est l'occasion de rencontrer des experts du secteur, de découvrir de nouvelles méthodes de travail et de renforcer son réseau professionnel. Venez rejoindre l’Espace Coworking de Toulouse pour cette rencontre enrichissante qui vous permettra de partager vos expériences tout en développant vos projets.",
+        "startDateTime": "2025-11-05T09:00:00",
+        "location": "Espace Coworking, Toulouse",
+        "organizer": "Freelance Network",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Entrée Standard", "price": 30000.0, "quantityAvailable": 150, "purchaseLimitPerUser": 2, "saleEnabled": true }
+        ]
+    }
+]

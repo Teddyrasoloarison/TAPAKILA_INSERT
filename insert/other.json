@@ -1,0 +1,62 @@
+[
+    {
+        "category": "AUTRE",
+        "title": "Exposition Art Contemporain",
+        "description": "L'Exposition Art Contemporain est une expérience immersive unique qui met en lumière le travail des artistes contemporains les plus influents et innovants du moment. Cette exposition offre une vision fascinante de l'art moderne à travers des installations, des sculptures et des œuvres multimédia, créant un dialogue entre le spectateur et l'art. Chaque pièce présente une approche différente des questions sociales, politiques et culturelles actuelles, invitant les visiteurs à explorer de nouvelles perceptions du monde. Rejoignez-nous au Musée d'Art Moderne de Paris pour découvrir les tendances et les talents qui façonnent l'avenir de l'art contemporain.",
+        "startDateTime": "2025-06-05T10:00:00",
+        "location": "Musée d'Art Moderne, Paris",
+        "organizer": "Art Vision",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Entrée Standard", "price": 50000.0, "quantityAvailable": 3000, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "AUTRE",
+        "title": "Salon du Livre et de la Lecture",
+        "description": "Le Salon du Livre et de la Lecture est un événement incontournable pour tous les amoureux de la littérature, où se rencontrent auteurs, éditeurs et passionnés de livres. Ce salon offre une plateforme unique pour découvrir des œuvres littéraires nouvelles, participer à des conférences, des débats et des rencontres avec des écrivains. C’est aussi l’opportunité de découvrir des éditeurs indépendants, des ouvrages rares et des ressources pour nourrir votre passion de la lecture. Venez à Paris Expo Porte de Versailles pour explorer l'univers fascinant de la littérature sous toutes ses formes.",
+        "startDateTime": "2025-07-01T08:00:00",
+        "location": "Paris Expo Porte de Versailles",
+        "organizer": "Livre et Culture",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass 3 Jours", "price": 120000.0, "quantityAvailable": 2000, "purchaseLimitPerUser": 5, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "AUTRE",
+        "title": "Festival de Feu d'Artifice",
+        "description": "Le Festival de Feu d'Artifice est un spectacle pyrotechnique spectaculaire qui célèbre l'art du feu dans toute sa splendeur. Cet événement unique rassemble les meilleurs artificiers du monde, offrant un spectacle visuel époustouflant avec des feux d'artifice, des éclairages et des effets spéciaux qui illuminent le ciel de Paris. La magie de ce festival réside dans la synchronisation parfaite entre la musique, la lumière et la pyrotechnie, créant ainsi une expérience sensorielle inoubliable pour tous les spectateurs. Rejoignez-nous au Parc de la Villette pour une soirée mémorable, placée sous le signe de la beauté et de l’émerveillement.",
+        "startDateTime": "2025-08-15T22:00:00",
+        "location": "Parc de la Villette, Paris",
+        "organizer": "Spectacles Pyrotechniques",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Entrée Générale", "price": 70000.0, "quantityAvailable": 5000, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "AUTRE",
+        "title": "Marché de Noël de Strasbourg",
+        "description": "Le Marché de Noël de Strasbourg est l’un des plus beaux et des plus anciens marchés de Noël en Europe. Plongez dans une ambiance féérique où des centaines d'artisans locaux présentent leurs produits faits main, des décorations de Noël, des jouets traditionnels, ainsi que des spécialités gastronomiques de saison. Ce marché est également l'occasion de découvrir les traditions de Noël alsaciennes à travers des concerts, des expositions et des animations pour toute la famille. Venez vivre la magie de Noël à Place Broglie à Strasbourg, dans un décor enchanteur qui ravira petits et grands.",
+        "startDateTime": "2025-12-01T10:00:00",
+        "location": "Place Broglie, Strasbourg",
+        "organizer": "Strasbourg Tourisme",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass Journalier", "price": 30000.0, "quantityAvailable": 5000, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "AUTRE",
+        "title": "Bourse aux Vins de Bordeaux",
+        "description": "La Bourse aux Vins de Bordeaux est un événement prestigieux où se réunissent les meilleurs producteurs et amateurs de vin pour une expérience œnologique exceptionnelle. Ce salon permet de découvrir et déguster une large sélection de vins de Bordeaux, des grands crus aux découvertes de vignerons passionnés. Les visiteurs peuvent participer à des ateliers de dégustation, des conférences sur le vin et échanger avec des experts. Un événement incontournable pour les passionnés de vin et ceux qui souhaitent en apprendre davantage sur l'art de la vinification dans cette région viticole emblématique. Rejoignez-nous à la Cité du Vin de Bordeaux pour une expérience sensorielle et gustative inoubliable.",
+        "startDateTime": "2025-11-10T14:00:00",
+        "location": "Cité du Vin, Bordeaux",
+        "organizer": "Bordeaux Wine Association",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass Dégustation", "price": 100000.0, "quantityAvailable": 1500, "purchaseLimitPerUser": 5, "saleEnabled": true }
+        ]
+    }
+]

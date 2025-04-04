@@ -1,0 +1,63 @@
+[
+    {
+        "category": "CONFERENCE",
+        "title": "Tech Future 2025",
+        "description": "Découvrez les technologies émergentes qui vont révolutionner notre quotidien : intelligence artificielle, réalité augmentée, 5G, cybersécurité et plus encore. Cette conférence réunit des leaders du secteur, des chercheurs et des visionnaires qui partageront leur expertise à travers des keynotes inspirantes et des ateliers interactifs. C'est l'occasion parfaite pour anticiper les grandes mutations du numérique et comprendre les enjeux qui façonneront les prochaines décennies. Une plongée au cœur de l'innovation, à ne pas manquer.",
+        "startDateTime": "2025-06-12T10:00:00",
+        "location": "Los Angeles",
+        "organizer": "Tech Innovators",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass Complet", "price": 150000.0, "quantityAvailable": 500, "purchaseLimitPerUser": 5, "saleEnabled": true },
+            { "name": "Jour Unique", "price": 70000.0, "quantityAvailable": 1000, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "CONFERENCE",
+        "title": "Intelligence Artificielle et Avenir",
+        "description": "L’intelligence artificielle bouleverse déjà nos modes de vie, mais jusqu’où ira-t-elle ? Cette conférence propose une réflexion approfondie sur les impacts sociaux, économiques et éthiques de l’IA, avec des intervenants issus de la recherche, de l’industrie et du secteur public. Entre espoir technologique et défis de régulation, ce débat vous aidera à mieux comprendre les enjeux de demain. Un rendez-vous incontournable pour tous ceux qui s'intéressent à l’avenir de la société numérique.",
+        "startDateTime": "2025-09-22T14:00:00",
+        "location": "Université de Lyon",
+        "organizer": "AI Thinkers",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Standard", "price": 50000.0, "quantityAvailable": 700, "purchaseLimitPerUser": 5, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "CONFERENCE",
+        "title": "Economie et Crises Globales",
+        "description": "Dans un monde de plus en plus interconnecté, les crises économiques prennent une ampleur mondiale. Cette conférence explore les origines, les dynamiques et les conséquences des grandes crises financières, ainsi que les stratégies d’anticipation et de résilience. Des économistes de renom et des experts en politique publique partageront leur analyse et proposeront des pistes concrètes pour l'avenir. Une occasion unique d'enrichir sa compréhension de l’économie globale et de ses enjeux.",
+        "startDateTime": "2025-07-08T09:00:00",
+        "location": "Centre des Finances, Bruxelles",
+        "organizer": "Global Economy Forum",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Accès Conférence", "price": 80000.0, "quantityAvailable": 600, "purchaseLimitPerUser": 5, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "CONFERENCE",
+        "title": "Climat et Énergies Renouvelables",
+        "description": "Face aux urgences climatiques, cette conférence fait le point sur les avancées en matière d’énergies propres et de développement durable. Scientifiques, ingénieurs et décideurs politiques présenteront des solutions innovantes pour réduire notre empreinte carbone et bâtir un avenir plus vert. De la transition énergétique à la justice climatique, tous les aspects cruciaux seront abordés. Un événement essentiel pour imaginer collectivement un monde plus respectueux de l’environnement.",
+        "startDateTime": "2025-10-15T11:00:00",
+        "location": "Hôtel de Ville, Genève",
+        "organizer": "Green Future Association",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Participation", "price": 60000.0, "quantityAvailable": 500, "purchaseLimitPerUser": 5, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "CONFERENCE",
+        "title": "Blockchain et Cryptomonnaies",
+        "description": "Plongez dans l’univers fascinant de la blockchain, une technologie qui transforme la finance, mais aussi bien d'autres secteurs comme la logistique, la santé et l’immobilier. Cette conférence met en lumière les dernières évolutions dans le domaine des cryptomonnaies, avec des présentations d’experts, des démonstrations pratiques et des analyses de marché. Vous découvrirez également les opportunités et les risques liés à l’investissement dans les actifs numériques. Une rencontre incontournable pour tous les curieux du Web3 et de l’économie décentralisée.",
+        "startDateTime": "2025-12-05T16:00:00",
+        "location": "Tech Hub, Berlin",
+        "organizer": "Crypto World Summit",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Entrée Standard", "price": 90000.0, "quantityAvailable": 400, "purchaseLimitPerUser": 5, "saleEnabled": true }
+        ]
+    }
+]

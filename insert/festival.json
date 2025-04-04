@@ -1,0 +1,64 @@
+[
+    {
+        "category": "FESTIVAL",
+        "title": "Festival de Musique du Monde",
+        "description": "Le Festival de Musique du Monde est une célébration unique des diverses traditions musicales de tous les coins du globe. Ce grand événement réunit des artistes, musiciens et groupes issus de cultures variées, offrant un éventail impressionnant de styles musicaux, allant des sons traditionnels aux rythmes contemporains. Des concerts en plein air, des ateliers interactifs et des spectacles en soirée transformeront le Parc des Expositions de Paris en un lieu de rencontre vibrant. C’est l’occasion parfaite pour découvrir des sonorités et des talents internationaux, tout en célébrant la diversité culturelle par le biais de la musique.",
+        "startDateTime": "2025-06-25T12:00:00",
+        "location": "Parc des Expositions, Paris",
+        "organizer": "Global Music Festival",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass 3 Jours", "price": 200000.0, "quantityAvailable": 1000, "purchaseLimitPerUser": 5, "saleEnabled": true },
+            { "name": "Pass 1 Jour", "price": 80000.0, "quantityAvailable": 3000, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "FESTIVAL",
+        "title": "Festival du Cinéma Indépendant",
+        "description": "Le Festival du Cinéma Indépendant est un rendez-vous incontournable pour les passionnés de cinéma d’auteur. Chaque année, cet événement met en lumière les films indépendants qui sortent des sentiers battus, offrant une plateforme aux réalisateurs émergents du monde entier. Au programme, des projections de films rares, des conférences enrichissantes sur l’art cinématographique et des rencontres exclusives avec les créateurs. Les spectateurs auront l’opportunité de découvrir des œuvres qui questionnent, réinventent et redéfinissent le langage du cinéma. Un véritable hommage à la créativité et à l’innovation dans le septième art.",
+        "startDateTime": "2025-07-15T09:00:00",
+        "location": "Cinéma Grand Rex, Paris",
+        "organizer": "Indie Film Lovers",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass Complet", "price": 150000.0, "quantityAvailable": 500, "purchaseLimitPerUser": 3, "saleEnabled": true },
+            { "name": "Pass Journée", "price": 50000.0, "quantityAvailable": 1500, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "FESTIVAL",
+        "title": "Festival de Danse Contemporaine",
+        "description": "Le Festival de Danse Contemporaine est un événement phare pour tous les amateurs d’art vivant et d’expression corporelle. Des danseurs de renommée mondiale, ainsi que des artistes émergents, viendront partager leur passion pour la danse sous ses formes les plus innovantes et avant-gardistes. Ce festival est une rencontre entre disciplines, où se croisent la danse, la musique, le théâtre et les arts plastiques. Les performances sur scène, aussi bien en intérieur qu’en plein air, feront vivre au public une expérience sensorielle inédite, propulsant la danse contemporaine dans toutes ses dimensions.",
+        "startDateTime": "2025-08-01T10:00:00",
+        "location": "Théâtre National, Lyon",
+        "organizer": "Contemporary Dance Collective",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Accès Général", "price": 100000.0, "quantityAvailable": 800, "purchaseLimitPerUser": 5, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "FESTIVAL",
+        "title": "Festival des Arts de Rue",
+        "description": "Le Festival des Arts de Rue transforme la ville en une scène à ciel ouvert où se côtoient performances théâtrales, spectacles de rue et concerts improvisés. Ce festival attire des artistes de tous horizons qui investissent l’espace public pour créer une véritable interaction entre les spectateurs et les créateurs. Que ce soit pour découvrir des installations visuelles surprenantes, des pièces de théâtre en plein air ou des concerts spontanés, chaque coin de la Place de la République à Marseille deviendra un lieu de création unique. Ce festival est une célébration de l’art vivant et de la liberté d’expression dans la rue.",
+        "startDateTime": "2025-09-10T11:00:00",
+        "location": "Place de la République, Marseille",
+        "organizer": "Urban Art Festival",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass 2 Jours", "price": 70000.0, "quantityAvailable": 1000, "purchaseLimitPerUser": 5, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "FESTIVAL",
+        "title": "Festival de Cuisine et Gastronomie",
+        "description": "Le Festival de Cuisine et Gastronomie est une véritable immersion dans l’art culinaire mondial. Durant cet événement, des chefs étoilés, des cuisiniers de renom et des artisans du goût viendront partager leur savoir-faire à travers des démonstrations, des ateliers et des dégustations. Des plats traditionnels aux créations les plus avant-gardistes, les visiteurs pourront découvrir une multitude de saveurs et de techniques culinaires. Ce festival est une ode à la diversité gastronomique et à la passion de la cuisine, un événement incontournable pour tous les gourmets et curieux désireux de savourer l’excellence culinaire sous toutes ses formes.",
+        "startDateTime": "2025-10-05T08:00:00",
+        "location": "Parc des Expositions, Lyon",
+        "organizer": "Gastronomy Lovers",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass 1 Jour", "price": 50000.0, "quantityAvailable": 2000, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "category": "WEBINAR",
+        "title": "Les Nouvelles Tendances du Marketing Digital",
+        "description": "Le marketing digital évolue à une vitesse folle, et il est essentiel de rester à la pointe des dernières tendances pour ne pas être dépassé. Ce webinar vous guidera à travers les innovations majeures dans le domaine, des stratégies avancées de SEO aux nouvelles méthodes de publicité en ligne, en passant par les outils de marketing automatisés. Vous découvrirez comment utiliser ces tendances pour optimiser vos campagnes et atteindre un public toujours plus ciblé. Si vous souhaitez booster vos compétences et comprendre ce qui se cache derrière les succès des plus grandes marques, ce webinar est fait pour vous.",
+        "startDateTime": "2025-06-20T10:00:00",
+        "location": "En ligne",
+        "organizer": "Marketing Pros",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Accès Complet", "price": 25000.0, "quantityAvailable": 500, "purchaseLimitPerUser": 3, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "WEBINAR",
+        "title": "Introduction à la Programmation Web",
+        "description": "Vous rêvez de devenir développeur web mais vous ne savez pas par où commencer ? Ce webinar est conçu pour les débutants et vous donnera un aperçu clair et accessible des bases du développement web. Nous aborderons des langages comme HTML, CSS et JavaScript, ainsi que les outils essentiels pour débuter dans le domaine. En suivant ce webinar, vous serez prêt à commencer à créer vos propres sites web et applications. Rejoignez-nous pour démystifier la programmation web et apprendre les fondamentaux qui ouvrent la voie à une carrière dans le développement.",
+        "startDateTime": "2025-07-10T14:00:00",
+        "location": "En ligne",
+        "organizer": "Code Academy",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Entrée Gratuite", "price": 0.0, "quantityAvailable": 200, "purchaseLimitPerUser": 1, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "WEBINAR",
+        "title": "Les Secrets de la Productivité à Distance",
+        "description": "Le télétravail est devenu la norme pour beaucoup d'entre nous, mais comment rester productif tout en travaillant depuis chez soi ? Ce webinar vous fournira des stratégies éprouvées et des outils pratiques pour améliorer votre productivité à distance. Nous discuterons de la gestion du temps, de la création d'un environnement de travail optimal et de la façon de rester motivé tout au long de la journée. Si vous êtes un travailleur à distance ou si vous cherchez à maximiser votre efficacité, ce webinar est fait pour vous.",
+        "startDateTime": "2025-08-05T16:00:00",
+        "location": "En ligne",
+        "organizer": "Remote Work Experts",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Accès Standard", "price": 20000.0, "quantityAvailable": 300, "purchaseLimitPerUser": 3, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "WEBINAR",
+        "title": "Développement Personnel et Bien-être Mental",
+        "description": "Le bien-être mental est essentiel pour mener une vie équilibrée et réussir dans tous les aspects de notre quotidien. Ce webinar est conçu pour explorer les stratégies de développement personnel et de bien-être mental qui vous aideront à réduire le stress, à améliorer votre confiance en vous et à atteindre vos objectifs. Nous aborderons des techniques de relaxation, de méditation, ainsi que des conseils pratiques pour intégrer des habitudes saines dans votre routine quotidienne. Rejoignez-nous pour apprendre à prendre soin de votre esprit et cultiver une vie plus épanouie.",
+        "startDateTime": "2025-09-15T11:00:00",
+        "location": "En ligne",
+        "organizer": "Mindful Life",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Accès Gratuite", "price": 0.0, "quantityAvailable": 500, "purchaseLimitPerUser": 2, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "WEBINAR",
+        "title": "La Blockchain expliquée aux Débutants",
+        "description": "La blockchain est souvent perçue comme une technologie complexe, mais elle a le potentiel de révolutionner de nombreux secteurs. Dans ce webinar, nous vous guiderons à travers les bases de la blockchain, de son fonctionnement aux applications les plus courantes comme les crypto-monnaies. Vous découvrirez comment cette technologie sécurisée et décentralisée change le monde des affaires, de la finance et au-delà. Ce webinar est idéal pour les débutants souhaitant comprendre ce qu'est la blockchain et pourquoi elle occupe une place de plus en plus importante dans notre société.",
+        "startDateTime": "2025-10-20T15:00:00",
+        "location": "En ligne",
+        "organizer": "Crypto Learning",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Entrée Standard", "price": 30000.0, "quantityAvailable": 400, "purchaseLimitPerUser": 2, "saleEnabled": true }
+        ]
+    }
+]
